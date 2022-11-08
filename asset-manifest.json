@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.698ef036.css",
-    "main.js": "/static/js/main.160a2a09.js",
-    "static/js/787.33c069aa.chunk.js": "/static/js/787.33c069aa.chunk.js",
-    "static/media/plus.svg": "/static/media/plus.250f5401992394c5a16f12b124d2d8e5.svg",
-    "static/media/search.svg": "/static/media/search.4feff1629caf39cb3f92ca9d1dad8f6d.svg",
-    "static/media/music.svg": "/static/media/music.88b4705e615975872f01205b78911dfa.svg",
-    "index.html": "/index.html",
-    "static/media/dropdown-up.svg": "/static/media/dropdown-up.f97ae868720b6cdb1bfdd9c7cde5d10d.svg",
-    "static/media/dropdown.svg": "/static/media/dropdown.9463630255f080a3a912e2ba58ebc719.svg",
-    "static/media/playlist.svg": "/static/media/playlist.cf4fc39f510b9baae4d8fe3e2e7b8805.svg",
-    "main.698ef036.css.map": "/static/css/main.698ef036.css.map",
-    "main.160a2a09.js.map": "/static/js/main.160a2a09.js.map",
-    "787.33c069aa.chunk.js.map": "/static/js/787.33c069aa.chunk.js.map"
+    "main.css": "/music-app/static/css/main.698ef036.css",
+    "main.js": "/music-app/static/js/main.8450c239.js",
+    "static/js/787.33c069aa.chunk.js": "/music-app/static/js/787.33c069aa.chunk.js",
+    "static/media/plus.svg": "/music-app/static/media/plus.250f5401992394c5a16f12b124d2d8e5.svg",
+    "static/media/search.svg": "/music-app/static/media/search.4feff1629caf39cb3f92ca9d1dad8f6d.svg",
+    "static/media/music.svg": "/music-app/static/media/music.88b4705e615975872f01205b78911dfa.svg",
+    "index.html": "/music-app/index.html",
+    "static/media/dropdown-up.svg": "/music-app/static/media/dropdown-up.f97ae868720b6cdb1bfdd9c7cde5d10d.svg",
+    "static/media/dropdown.svg": "/music-app/static/media/dropdown.9463630255f080a3a912e2ba58ebc719.svg",
+    "static/media/playlist.svg": "/music-app/static/media/playlist.cf4fc39f510b9baae4d8fe3e2e7b8805.svg",
+    "main.698ef036.css.map": "/music-app/static/css/main.698ef036.css.map",
+    "main.8450c239.js.map": "/music-app/static/js/main.8450c239.js.map",
+    "787.33c069aa.chunk.js.map": "/music-app/static/js/787.33c069aa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.698ef036.css",
-    "static/js/main.160a2a09.js"
+    "static/js/main.8450c239.js"
   ]
 }
