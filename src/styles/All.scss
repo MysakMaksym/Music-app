@@ -1,0 +1,13 @@
+.All {
+    width: 100%;
+    display: flex;
+    align-items: flex-start;
+
+    .songs {
+        display: flex;
+        flex-wrap: wrap;
+        width: 100%;
+        gap: 15px;
+        padding: 20px;
+    }
+}
